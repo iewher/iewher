@@ -27,4 +27,4 @@
 ---
 
 ![Telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)
-![Mail](https://img.shields.io/badge/-mail-<COLOR>?style=for-the-badge&logo=mail.ru)
+![Mail](https://img.shields.io/badge/-mail-000000?style=for-the-badge&logo=mail.ru)
