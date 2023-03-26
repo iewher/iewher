@@ -1,8 +1,9 @@
-[Header](https://github.com/iewher/iewher/blob/main/assets/image.png)
+![Header](/assets/image.png)
 
-#Приветствую на моем GitHub профиле
+# Приветствую на моем GitHub профиле
 
-###Обо мне
+### Обо мне
+---
 
 **Самостоятельность**, а так же **предприимчивость**, **умение работать в команде**, **разбираюсь в чужом коде**, **поиск для себя новой информации**, **управление собственным развитием**, **работа на ошибками**, **ежедневная практика в алгоритмах**. Увлекаюсь чтением технической литературы.
 
@@ -14,12 +15,16 @@
     * **стремление к получению знаний**
 
 
-###Языки и инструменты
+### Языки и инструменты
+---
 
-![HTML](https://img.shields.io/badge/-HTML-<COLOR>?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-<COLOR>?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-<COLOR>?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 
-###Напишите мне
+### Напишите мне
+---
 
+![Telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)
+![Mail](https://img.shields.io/badge/-mail-<COLOR>?style=for-the-badge&logo=mail.ru)
