@@ -1,16 +1,17 @@
-### Hi there 👋
+![Header](/assets/image.png)
 
-<!--
-**iewher/iewher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Приветствую на моем GitHub профиле
+---
+### Обо мне
+---
 
-Here are some ideas to get you started:
+Привет, я **Георгий**, использую такие языки как :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+
+А так же фреймворки:
+
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+
