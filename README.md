@@ -34,7 +34,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iewher&theme=dark" alt="Streak Stats" />
     </p>
     <p align="center">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iewher" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iewher&theme=high-contrast" alt="Activity Graph" />
     </p>
 </details>
 
