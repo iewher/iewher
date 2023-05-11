@@ -22,7 +22,7 @@
 </p>
 
 <details>
-    <summary>Моя github статистика</summary>
+    <summary align="center">Моя github статистика</summary>
     <br />
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=iewher&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
