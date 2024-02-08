@@ -33,9 +33,6 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iewher&theme=dark" alt="Streak Stats" />
     </p>
-    <p>
-        [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iewher/langs)](https://githubtrends.io)
-    </p>
 </details>
 
 <img src="./assets/image-bottom.png" alt="top image" />
