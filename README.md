@@ -33,6 +33,10 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iewher&theme=dark" alt="Streak Stats" />
     </p>
+    <p align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iewher&theme=dark"/>
+    </p>
+    
 </details>
 
 <img src="./assets/image-bottom.png" alt="top image" />
