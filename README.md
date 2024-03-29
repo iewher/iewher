@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- I write in TypeScript.
+- I write on TypeScript.
 - I hate TypeScript
